@@ -1,3 +1,8 @@
+ALVIN ARI PRADHANA	2309116063
+MUHAMMAD FAHREZI	2309116088
+DAVINA PUTRI GAUTAMA	2309116054
+ILYAS DUFAN SETYAWAN	2309116074
+
 | Fitur Admin                               | Deskripsi                                                                                                                                                                                                                         |
 |--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Login Admin**                            | Admin dapat login ke aplikasi dengan nama dan password mereka.                                                                                                                                                                    |
